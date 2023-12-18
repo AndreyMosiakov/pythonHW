@@ -1,0 +1,15 @@
+INFO     2023-12-17 21:01:38,956 education 'Математика - 5, 10' - Ok
+INFO     2023-12-17 21:01:38,959 education 'None' - Ok
+INFO     2023-12-17 21:02:55,774 education 'Математика - 5, 10' - Ok
+INFO     2023-12-17 21:02:55,775 education 'None' - Ok
+ERROR    2023-12-17 21:04:09,446 education 'Обж - 5, 10' - Обж - недопустимая дисциплина, или уже есть в списке!
+INFO     2023-12-17 21:04:09,447 education 'None' - Ok
+INFO     2023-12-17 21:05:10,780 education 'Математика - 5, 10' - Ok
+INFO     2023-12-17 21:05:10,781 education 'None' - Ok
+INFO     2023-12-17 21:05:45,018 education 'Математика - 5, 10' - Ok
+INFO     2023-12-17 21:05:45,019 education 'Химия - 5, 10' - Ok
+INFO     2023-12-17 21:05:45,020 education 'None' - Ok
+INFO     2023-12-17 21:07:20,417 education 'Математика - 5, 10' - Ok
+INFO     2023-12-17 21:07:20,417 education 'Химия - 5, 10' - Ok
+INFO     2023-12-17 21:10:13,577 education 'Математика - 4, 15' - Ok
+INFO     2023-12-17 21:10:13,580 education 'None' - Ok
